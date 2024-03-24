@@ -1,0 +1,31 @@
+label{
+    color: rgb(236, 236, 239) !important;
+}
+.main-profile{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.input_field{
+ background-color: blueviolet;
+ border: none;
+ outline: none;
+ color: rgb(246, 201, 2);
+ padding-left: 10px;
+ padding-right: 10px;
+}
+.order label{
+    display: block;
+}
+.order input,.order textarea{
+    color: black;
+    background-color: aqua;
+}
+.order .submit_button{
+    border: none; 
+}
+.money{
+    color:aliceblue !important;
+}
